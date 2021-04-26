@@ -4,9 +4,7 @@
     <test verbose="2" preserve-order="true" name="/home/ttn/Assignment/src/test/java/TestSuites">
         <classes>
             <class name="TestSuites.DataProviderExe">
-                <methods>
-                    <include name="integrationTest"/>
-                </methods>
+              
             </class>
         </classes>
     </test>
